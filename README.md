@@ -29,7 +29,7 @@ DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Dense Structure from Moti
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@article{Ye2024FedSurfGS,
+@article{Ye2024DATAP-SfM,
           title={DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Dense Structure from Motion in the Wild},
           author={Weicai Ye and Xinyu Chen and Ruohao Zhan and Di Huang and Xiaoshui Huang and Haoyi Zhu and Hujun Bao and Wanli Ouyang and Tong He and Guofeng Zhang},
           booktitle={arxiv preprint},
